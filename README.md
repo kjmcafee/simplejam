@@ -1,2 +1,1 @@
-# simplejam
-Testing the Jam Stack
+# The most basic JAMstack demo site
